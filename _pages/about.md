@@ -11,7 +11,7 @@ redirect_from:
 I'm an assistant professor in the School of Sociology at the University of Arizona. My principal line of research focuses on the interplay of culture, social groups, and social networks. 
 
 My research is guided by two central questions: 
-* at the macro level, how do social groups develop distinct cultures?
+* at the group level, how do social groups develop distinct cultures?
 * at the individual level, how do people develop and internalize culture and use it to guide their actions? 
 
 In my research, I use large-scale digital trace data and a range of quantitative and computational methods, including large language models, network analysis, computational textual analysis, agent-based modeling, machine learning, online experiments, and survey analysis. My work has been supported by multiple research grants from the National Science Foundation (NSF 2048670, 1409593, 1922906, and 2420405), and covered by dozens of popular media outlets including Wired, The Guardian, BBC News, Huffington Post, and LA Times. I received the Outstanding Article Publication Award and Dissertation-in-Progress Award from the Mathematical Sociology Section of the American Sociological Association.
@@ -44,3 +44,6 @@ Social Networks"
 
 Shi, Yongren and Kevin Kiley. "Culture from Conversation: How Conversation Transition Structures Shape Online Communities"
 
+
+[CV](https://yongrenshi.github.io/YongrenShi/files/Shi_CV.pdf)
+------
