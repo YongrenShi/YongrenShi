@@ -18,22 +18,16 @@ If you’re considering doctoral studies at the University of Arizona or a resea
 
 Selected Publications
 ------
-Smock, Regan, Yongren Shi and Steven Hitlin. Forthcoming. “The
-Empirical Sociology of Morality: Social Roles and Power Distance in Everyday Moral Blame Judgments” Handbook of Social Psychology.
-
 Shi, Yongren, Regan Smock and Steve Hitlin. 2025. “Moral Disagreement in Everyday Life: An Inductive, Structural Model of Moral Order” Social Science Research. Volume 127, 103139 https://doi.org/
 
-Shi, Yongren, Kevin Kiley, and Freda B. Lynn. 2025. “Beyond Statistical Variables: Examining the Duality of Persons and Groups in Structuring Opinion Space.” Poetics: Journal of Empirical Research on Culture,
-the Media and the Arts Volume 108, 101967 https://doi.org/10.1177/
-23780231241272681
+Shi, Yongren, Kevin Kiley, and Freda B. Lynn. 2025. “Beyond Statistical Variables: Examining the Duality of Persons and Groups in Structuring Opinion Space.” Poetics: Journal of Empirical Research on Culture, the Media and the Arts Volume 108, 101967 https://doi.org/10.1177/23780231241272681
 
 Shi, Yongren, Kevin Kiley, and Stephanie M. DiPietro. 2024. “To the Extreme: A Descriptive Exploration of the Rise of a Radical Culture in a Misogynist Digital Community.” Socius: Sociological Research for a Dynamic World Volume 10: 1-18 https://doi.org/10.1177/23780231241272681
 
 Lynn, Freda B., Yongren Shi, and Kevin Kiley. 2024. “Intersectional Group Agreement on the Occupational Order.” Social Psychology Quarterly Vol. 88(1) 135-148. https://doi.org/10.1177/01902725241256378
 
 Shi, Yongren, Fedor Dokshin, Michael Genkin and Matthew E. Brashears. 2017. “A Member Saved is a Member Earned? The RecruitmentRetention Trade-Off and Organizational Strategies for Membership Growth.”
-American Sociological Review 82(2): 407 - 434. https://doi.org/10.
-1177/0003122417693616
+American Sociological Review 82(2): 407 - 434. https://doi.org/10.1177/0003122417693616
 
 Feng Shi*, Yongren Shi*, Fedor Dokshin, Michael W. Macy and James Evans. 2017. “Millions of Online Book Co-purchases Reveal Partisan
 Differences in the Consumption of Science.” Nature Human Behaviour https://doi.org/10.1038/s41562-017-0079 (Cover Article) (* co-first authors with equal contribution).
