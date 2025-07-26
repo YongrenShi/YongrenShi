@@ -18,7 +18,7 @@ If you’re considering doctoral studies at the University of Arizona or a resea
 
 Selected Publications
 ------
-Shi, Yongren, Regan Smock and Steve Hitlin. 2025. “Moral Disagreement in Everyday Life: An Inductive, Structural Model of Moral Order” Social Science Research. Volume 127, 103139 https://doi.org/
+Shi, Yongren, Regan Smock and Steve Hitlin. 2025. “Moral Disagreement in Everyday Life: An Inductive, Structural Model of Moral Order” Social Science Research. Volume 127, 103139 [link](https://www.sciencedirect.com/science/article/abs/pii/S0049089X24001613)
 
 Shi, Yongren, Kevin Kiley, and Freda B. Lynn. 2025. “Beyond Statistical Variables: Examining the Duality of Persons and Groups in Structuring Opinion Space.” *Poetics: Journal of Empirical Research on Culture, the Media and the Arts* Volume 108, 101967 [link](https://doi.org/10.1177/23780231241272681)
 
