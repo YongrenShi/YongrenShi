@@ -8,9 +8,13 @@ redirect_from:
 ---
 
 
-I'm an assistant professor in the School of Sociology at the University of Arizona. My principal line of research focuses on the interplay of culture, social groups, and social networks. My research is guided by two central questions: at the macro level, how do social groups develop distinct cultures? And at the individual level, how do people develop and internalize culture and use it to guide their actions? In my research, I use large-scale digital trace data and a range of quantitative and computational methods, including large language models, network analysis, computational textual analysis, agent-based modeling, machine learning, online experiments, and survey analysis.
+I'm an assistant professor in the School of Sociology at the University of Arizona. My principal line of research focuses on the interplay of culture, social groups, and social networks. 
 
-My work has been supported by multiple research grants from the National Science Foundation (NSF 2048670, 1409593, 1922906, and 2420405), and covered by dozens of popular media outlets including Wired, The Guardian, BBC News, Huffington Post, and LA Times. I received the Outstanding Article Publication Award and Dissertation-in-Progress Award from the Mathematical Sociology Section of the American Sociological Association.
+My research is guided by two central questions: 
+* at the macro level, how do social groups develop distinct cultures?
+* at the individual level, how do people develop and internalize culture and use it to guide their actions? 
+
+In my research, I use large-scale digital trace data and a range of quantitative and computational methods, including large language models, network analysis, computational textual analysis, agent-based modeling, machine learning, online experiments, and survey analysis. My work has been supported by multiple research grants from the National Science Foundation (NSF 2048670, 1409593, 1922906, and 2420405), and covered by dozens of popular media outlets including Wired, The Guardian, BBC News, Huffington Post, and LA Times. I received the Outstanding Article Publication Award and Dissertation-in-Progress Award from the Mathematical Sociology Section of the American Sociological Association.
 
 I received my PhD in sociology from Cornell University. Before joining the school, I worked as a postdoc researcher at Yale Institute for Network Science and an assistant professor at the University of Iowa.
 
