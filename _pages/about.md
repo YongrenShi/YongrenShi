@@ -35,8 +35,8 @@ DellaPosta, Daniel, Yongren Shi and Michael W. Macy. 2015. “Why Do Liberals Dr
 
 Manuscripts
 ------
-Shi, Yongren, Edo Airoldi, and Nicholas Christakis. Multiplex Networks Provide Structural Pathways for Behavioral Contagion in Rural
-Social Networks.
+Shi, Yongren, Edo Airoldi, and Nicholas Christakis. "Multiplex Networks Provide Structural Pathways for Behavioral Contagion in Rural
+Social Networks"
 
-Shi, Yongren and Kevin Kiley. Culture from Conversation: How Conversation Transition Structures Shape Online Communities
+Shi, Yongren and Kevin Kiley. "Culture from Conversation: How Conversation Transition Structures Shape Online Communities"
 
