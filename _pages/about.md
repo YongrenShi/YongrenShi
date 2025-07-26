@@ -7,9 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+Welcome to the homepage of Yongren Shi.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Yongren Shi is an assistant professor in the School of Sociology at the University of Arizona. His principal line of research focuses on the interplay of culture, social groups, and social networks. Dr. Shi uses large-scale digital trace data and a range of quantitative and computational methods, including large language models, network analysis, computational textual analysis, agent-based modeling, machine learning, online experiments, and survey analysis.
+
+Dr. Shi’s research has appeared in top sociology and science journals, including American Sociological Review, American Journal of Sociology, Nature Human Behaviour, and Social Forces. His work has been supported by multiple research grants from the National Science Foundation (NSF 2048670, 1409593, 1922906, and 2420405), and covered by dozens of popular media outlets including Wired, The Guardian, BBC News, Huffington Post, and LA Times. Dr. Shi received the Outstanding Article Publication Award and Dissertation-in-Progress Award from the Mathematical Sociology Section of the American Sociological Association.
+
+Dr. Shi received his PhD in sociology from Cornell University. Before joining the school, he worked as a postdoc researcher at Yale Institute for Network Science and an assistant professor at the University of Iowa.
+
+If you’re considering doctoral studies at the University of Arizona or a research collaboration, you're encouraged to get in touch!
+
 
 A data-driven personal website
 ======
