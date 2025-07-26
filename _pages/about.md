@@ -12,9 +12,7 @@ I'm an assistant professor in the School of Sociology at the University of Arizo
 
 My work has been supported by multiple research grants from the National Science Foundation (NSF 2048670, 1409593, 1922906, and 2420405), and covered by dozens of popular media outlets including Wired, The Guardian, BBC News, Huffington Post, and LA Times. I received the Outstanding Article Publication Award and Dissertation-in-Progress Award from the Mathematical Sociology Section of the American Sociological Association.
 
-My research has appeared in top sociology and science journals, including American Sociological Review, American Journal of Sociology, Nature Human Behaviour, and Social Forces. My work has been supported by multiple research grants from the National Science Foundation (NSF 2048670, 1409593, 1922906, and 2420405), and covered by dozens of popular media outlets including Wired, The Guardian, BBC News, Huffington Post, and LA Times. I received the Outstanding Article Publication Award and Dissertation-in-Progress Award from the Mathematical Sociology Section of the American Sociological Association.
-
-I received his PhD in sociology from Cornell University. Before joining the school, I worked as a postdoc researcher at Yale Institute for Network Science and an assistant professor at the University of Iowa.
+I received my PhD in sociology from Cornell University. Before joining the school, I worked as a postdoc researcher at Yale Institute for Network Science and an assistant professor at the University of Iowa.
 
 If you’re considering doctoral studies at the University of Arizona or a research collaboration, you're encouraged to get in touch!
 
