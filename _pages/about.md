@@ -1,21 +1,27 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to the homepage of Yongren Shi!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Welcome to the homepage of Yongren Shi.
 
-Yongren Shi is an assistant professor in the School of Sociology at the University of Arizona. His principal line of research focuses on the interplay of culture, social groups, and social networks. Dr. Shi uses large-scale digital trace data and a range of quantitative and computational methods, including large language models, network analysis, computational textual analysis, agent-based modeling, machine learning, online experiments, and survey analysis.
+I'm an assistant professor in the School of Sociology at the University of Arizona. My principal line of research focuses on the interplay of culture, social groups, and social networks. In my research, I use large-scale digital trace data and a range of quantitative and computational methods, including large language models, network analysis, computational textual analysis, agent-based modeling, machine learning, online experiments, and survey analysis.
 
-Dr. Shi’s research has appeared in top sociology and science journals, including American Sociological Review, American Journal of Sociology, Nature Human Behaviour, and Social Forces. His work has been supported by multiple research grants from the National Science Foundation (NSF 2048670, 1409593, 1922906, and 2420405), and covered by dozens of popular media outlets including Wired, The Guardian, BBC News, Huffington Post, and LA Times. Dr. Shi received the Outstanding Article Publication Award and Dissertation-in-Progress Award from the Mathematical Sociology Section of the American Sociological Association.
+My research has appeared in top sociology and science journals, including American Sociological Review, American Journal of Sociology, Nature Human Behaviour, and Social Forces. My work has been supported by multiple research grants from the National Science Foundation (NSF 2048670, 1409593, 1922906, and 2420405), and covered by dozens of popular media outlets including Wired, The Guardian, BBC News, Huffington Post, and LA Times. I received the Outstanding Article Publication Award and Dissertation-in-Progress Award from the Mathematical Sociology Section of the American Sociological Association.
 
-Dr. Shi received his PhD in sociology from Cornell University. Before joining the school, he worked as a postdoc researcher at Yale Institute for Network Science and an assistant professor at the University of Iowa.
+I received his PhD in sociology from Cornell University. Before joining the school, I worked as a postdoc researcher at Yale Institute for Network Science and an assistant professor at the University of Iowa.
 
 If you’re considering doctoral studies at the University of Arizona or a research collaboration, you're encouraged to get in touch!
+
+Selected Publications
+------
+Smock, Regan, Yongren Shi and Steven Hitlin. Forthcoming. “The
+Empirical Sociology of Morality: Social Roles and Power Distance in Everyday Moral Blame Judgments” Handbook of Social Psychology.
+
+Shi, Yongren, Regan Smock and Steve Hitlin. 2025. “Moral Disagreement in Everyday Life: An Inductive, Structural Model of Moral Order” Social Science Research. Volume 127, 103139 https://doi.org/
 
 
 A data-driven personal website
