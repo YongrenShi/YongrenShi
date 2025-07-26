@@ -34,6 +34,14 @@ Differences in the Consumption of Science.” Nature Human Behaviour https://doi
 
 DellaPosta, Daniel, Yongren Shi and Michael W. Macy. 2015. “Why Do Liberals Drink Lattes?” American Journal of Sociology 120(5):1473-1511. https://doi.org/10.1086/681254
 
+Manuscripts
+------
+Shi, Yongren, Edo Airoldi, and Nicholas Christakis. Multiplex Networks Provide Structural Pathways for Behavioral Contagion in Rural
+Social Networks.
+
+Shi, Yongren and Kevin Kiley. Culture from Conversation: How Conversation Transition Structures Shape Online Communities
+
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
