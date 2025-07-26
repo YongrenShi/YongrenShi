@@ -18,20 +18,20 @@ If you’re considering doctoral studies at the University of Arizona or a resea
 
 Selected Publications
 ------
-Shi, Yongren, Regan Smock and Steve Hitlin. 2025. “Moral Disagreement in Everyday Life: An Inductive, Structural Model of Moral Order” *Social Science Research* Volume 127, 103139 [link](https://www.sciencedirect.com/science/article/abs/pii/S0049089X24001613)
+**Shi, Yongren**, Regan Smock and Steve Hitlin. 2025. “Moral Disagreement in Everyday Life: An Inductive, Structural Model of Moral Order” *Social Science Research* Volume 127, 103139 [link](https://www.sciencedirect.com/science/article/abs/pii/S0049089X24001613)
 
-Shi, Yongren, Kevin Kiley, and Freda B. Lynn. 2025. “Beyond Statistical Variables: Examining the Duality of Persons and Groups in Structuring Opinion Space.” *Poetics: Journal of Empirical Research on Culture, the Media and the Arts* Volume 108, 101967 [link](https://doi.org/10.1177/23780231241272681)
+**Shi, Yongren**, Kevin Kiley, and Freda B. Lynn. 2025. “Beyond Statistical Variables: Examining the Duality of Persons and Groups in Structuring Opinion Space.” *Poetics: Journal of Empirical Research on Culture, the Media and the Arts* Volume 108, 101967 [link](https://doi.org/10.1177/23780231241272681)
 
-Shi, Yongren, Kevin Kiley, and Stephanie M. DiPietro. 2024. “To the Extreme: A Descriptive Exploration of the Rise of a Radical Culture in a Misogynist Digital Community.” *Socius: Sociological Research for a Dynamic World* Volume 10: 1-18 [link](https://doi.org/10.1177/23780231241272681)
+**Shi, Yongren**, Kevin Kiley, and Stephanie M. DiPietro. 2024. “To the Extreme: A Descriptive Exploration of the Rise of a Radical Culture in a Misogynist Digital Community.” *Socius: Sociological Research for a Dynamic World* Volume 10: 1-18 [link](https://doi.org/10.1177/23780231241272681)
 
-Lynn, Freda B., Yongren Shi, and Kevin Kiley. 2024. “Intersectional Group Agreement on the Occupational Order.” *Social Psychology Quarterly* Vol. 88(1) 135-148. [link](https://doi.org/10.1177/01902725241256378)
+Lynn, Freda B., **Yongren Shi**, and Kevin Kiley. 2024. “Intersectional Group Agreement on the Occupational Order.” *Social Psychology Quarterly* Vol. 88(1) 135-148. [link](https://doi.org/10.1177/01902725241256378)
 
-Shi, Yongren, Fedor Dokshin, Michael Genkin and Matthew E. Brashears. 2017. “A Member Saved is a Member Earned? The RecruitmentRetention Trade-Off and Organizational Strategies for Membership Growth.” *American Sociological Review* 82(2): 407 - 434. [link](https://doi.org/10.1177/0003122417693616)
+**Shi, Yongren**, Fedor Dokshin, Michael Genkin and Matthew E. Brashears. 2017. “A Member Saved is a Member Earned? The RecruitmentRetention Trade-Off and Organizational Strategies for Membership Growth.” *American Sociological Review* 82(2): 407 - 434. [link](https://doi.org/10.1177/0003122417693616)
 
-Feng Shi*, Yongren Shi*, Fedor Dokshin, Michael W. Macy and James Evans. 2017. “Millions of Online Book Co-purchases Reveal Partisan
-Differences in the Consumption of Science.” *Nature Human Behaviour* [link](https://doi.org/10.1038/s41562-017-0079) (Cover Article) (* co-first authors with equal contribution).
+Feng Shi, **Yongren Shi**, Fedor Dokshin, Michael W. Macy and James Evans. 2017. “Millions of Online Book Co-purchases Reveal Partisan
+Differences in the Consumption of Science.” *Nature Human Behaviour* [link](https://doi.org/10.1038/s41562-017-0079) (Cover Article) (first two authors have equal contribution).
 
-DellaPosta, Daniel, Yongren Shi and Michael W. Macy. 2015. “Why Do Liberals Drink Lattes?” *American Journal of Sociology* 120(5):1473-1511. [link](https://doi.org/10.1086/681254)
+DellaPosta, Daniel, **Yongren Shi** and Michael W. Macy. 2015. “Why Do Liberals Drink Lattes?” *American Journal of Sociology* 120(5):1473-1511. [link](https://doi.org/10.1086/681254)
 
 Manuscripts
 ------
