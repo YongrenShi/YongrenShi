@@ -29,7 +29,7 @@ Lynn, Freda B., Yongren Shi, and Kevin Kiley. 2024. “Intersectional Group Agre
 Shi, Yongren, Fedor Dokshin, Michael Genkin and Matthew E. Brashears. 2017. “A Member Saved is a Member Earned? The RecruitmentRetention Trade-Off and Organizational Strategies for Membership Growth.” American Sociological Review 82(2): 407 - 434. [link](https://doi.org/10.1177/0003122417693616)
 
 Feng Shi*, Yongren Shi*, Fedor Dokshin, Michael W. Macy and James Evans. 2017. “Millions of Online Book Co-purchases Reveal Partisan
-Differences in the Consumption of Science.” Nature Human Behaviour https://doi.org/10.1038/s41562-017-0079 (Cover Article) (* co-first authors with equal contribution).
+Differences in the Consumption of Science.” Nature Human Behaviour [link](https://doi.org/10.1038/s41562-017-0079) (Cover Article) (* co-first authors with equal contribution).
 
 DellaPosta, Daniel, Yongren Shi and Michael W. Macy. 2015. “Why Do Liberals Drink Lattes?” American Journal of Sociology 120(5):1473-1511. [link](https://doi.org/10.1086/681254)
 
