@@ -20,7 +20,7 @@ Selected Publications
 ------
 Shi, Yongren, Regan Smock and Steve Hitlin. 2025. “Moral Disagreement in Everyday Life: An Inductive, Structural Model of Moral Order” Social Science Research. Volume 127, 103139 https://doi.org/
 
-Shi, Yongren, Kevin Kiley, and Freda B. Lynn. 2025. “Beyond Statistical Variables: Examining the Duality of Persons and Groups in Structuring Opinion Space.” Poetics: Journal of Empirical Research on Culture, the Media and the Arts Volume 108, 101967 [link](https://doi.org/10.1177/23780231241272681)
+Shi, Yongren, Kevin Kiley, and Freda B. Lynn. 2025. “Beyond Statistical Variables: Examining the Duality of Persons and Groups in Structuring Opinion Space.” *Poetics: Journal of Empirical Research on Culture, the Media and the Arts* Volume 108, 101967 [link](https://doi.org/10.1177/23780231241272681)
 
 Shi, Yongren, Kevin Kiley, and Stephanie M. DiPietro. 2024. “To the Extreme: A Descriptive Exploration of the Rise of a Radical Culture in a Misogynist Digital Community.” Socius: Sociological Research for a Dynamic World Volume 10: 1-18 [link](https://doi.org/10.1177/23780231241272681)
 
