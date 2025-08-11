@@ -24,11 +24,11 @@ author:
   # Biographic information
   avatar           : "https://sociology.arizona.edu/sites/default/files/styles/az_medium/public/2025-06/headshot_shi_0.jpg.webp?itok=R-L-aT2s"
   name             : "Yongren Shi"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/him"  
   bio              : "Computational Sociologist"
   location         : "Tucson, AZ"
   employer         : "University of Arizona"
-  uri              : # URL
+  uri              : "https://sociology.arizona.edu/person/yongren-shi"
   email            : "yongren@arizona.edu" 
 
   # Academic websites
