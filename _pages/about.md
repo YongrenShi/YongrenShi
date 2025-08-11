@@ -42,7 +42,7 @@ Manuscripts
 Shi, Yongren, Edo Airoldi, and Nicholas Christakis. "Multiplex Networks Provide Structural Pathways for Behavioral Contagion in Rural
 Social Networks" [link](https://yongrenshi.github.io/YongrenShi/paper_multiplexity/)
 
-Shi, Yongren and Kevin Kiley. "Culture from Conversation: How Conversation Transition Structures Shape Online Communities" [link](https://yongrenshi.github.io/YongrenShi/publications/)
+Shi, Yongren and Kevin Kiley. "Culture from Conversation: How Conversation Transition Structures Shape Online Communities" [link](https://yongrenshi.github.io/YongrenShi/paper_conversation/)
 
 [CV](https://yongrenshi.github.io/YongrenShi/files/Shi_CV.pdf)
 ------
