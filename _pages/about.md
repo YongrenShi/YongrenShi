@@ -42,8 +42,7 @@ Manuscripts
 Shi, Yongren, Edo Airoldi, and Nicholas Christakis. "Multiplex Networks Provide Structural Pathways for Behavioral Contagion in Rural
 Social Networks" [link](https://yongrenshi.github.io/YongrenShi/publications/)
 
-Shi, Yongren and Kevin Kiley. "Culture from Conversation: How Conversation Transition Structures Shape Online Communities"
-abstract: How does a group with no formal leadership or individual identity develop a distinct and potentially extreme culture? We argue that cultural change can emerge from interactional structure, specifically from shifted expectations about how one kind of talk follows another, a concept we call “conversational transition structures” (CTSs). Using data from the now-banned Reddit forum r/incels, we show how shifts in conversation patterns increasingly redirected conversations about everyday topics toward fatalistic and conflict-oriented topics, with replies aligning with these dominant structures receiving increasingly more positive evaluation from forum insiders over time. Simulated projection demonstrates that shifts in CTSs account for much of the forum’s cultural transformation. These findings highlight a core mechanism of cultural organization, structure in conversation, and suggest that shared response patterns can stabilize group discourse and generate recognizable expressive styles even in the absence of social structure or identity.
+Shi, Yongren and Kevin Kiley. "Culture from Conversation: How Conversation Transition Structures Shape Online Communities" [link](https://yongrenshi.github.io/YongrenShi/publications/)
 
 [CV](https://yongrenshi.github.io/YongrenShi/files/Shi_CV.pdf)
 ------
