@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "My New Page"
-permalink: /mynewpage/
+permalink: /paper_multiplexity/
 author_profile: true
 ---
 Multiplex Networks Provide Structural Pathways for Behavioral Contagion in Rural Social Networks
