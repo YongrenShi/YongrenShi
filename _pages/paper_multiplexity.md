@@ -1,7 +1,6 @@
 ---
 layout: single
-title: "Multiplex Networks Provide Structural Pathways for Social Contagion in Rural Social Networks" />
-"
+title: "Multiplex Networks Provide Structural Pathways for Social Contagion in Rural Social Networks"
 permalink: /paper_multiplexity/
 author_profile: true
 ---
